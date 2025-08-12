@@ -7,4 +7,8 @@ print(c*d)
 x=50
 y=90
 print(x%y)
+
 print("mai master hun side me nahi dikhunga")
+
+print("mai side branch hun mai main me nahi dikhunga")
+
