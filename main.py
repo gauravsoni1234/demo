@@ -4,3 +4,6 @@ print(a+b)
 c=2
 d=9
 print(c*d)
+x=50
+y=90
+print(x%y)
